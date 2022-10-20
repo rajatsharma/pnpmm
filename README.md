@@ -1,4 +1,4 @@
-# pnpmm 🤘
+# pnpmm 📦
 
 > pnpm migrate
 
